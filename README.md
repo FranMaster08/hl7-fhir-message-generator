@@ -220,7 +220,3 @@ Este proyecto está bajo la licencia MIT.
 1. [Estándar HL7 v2.x](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185)
 2. [Estándar HL7 v3](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186)
 3. [Descripción General de FHIR](https://www.hl7.org/fhir/overview.html)
-
----
-
-Este **README** en español incluye emojis para hacerlo más visual y atractivo. Además, cubre todas las dependencias, estándares soportados, y ejemplos de uso, y aclara que estamos en una **versión ALPHA** del proyecto.
