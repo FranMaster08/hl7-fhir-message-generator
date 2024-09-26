@@ -1,0 +1,26 @@
+{
+  "name": "thv-hl7",
+  "version": "1.0.0",
+  "description": "Este proyecto es un **generador dinámico de mensajes** que soporta múltiples estándares de interoperabilidad en el ámbito de la salud, incluyendo **HL7 v2.x**, **HL7 v3**, y **FHIR**. Utiliza el **Patrón Strategy** para permitir la generación dinámica de mensajes basados en cualquier estructura de entrada, lo que lo hace altamente flexible para diversos casos de uso (transacciones, registros médicos, etc.).",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/main ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "hl7": "^1.1.1",
+    "uuid": "^8.3.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/hl7": "^2.5.4",
+    "@types/uuid": "^10.0.0",
+    "@types/xml2js": "^0.4.14",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

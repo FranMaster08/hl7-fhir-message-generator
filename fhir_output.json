@@ -1,0 +1,67 @@
+{
+  "resourceType": "Bundle",
+  "id": "bf751e3b-8b05-49fa-8617-e40160ee476a",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "transactionId",
+        "id": "a185bd06-6ead-4de9-8a18-9ce29810b270",
+        "attributes": [
+          {
+            "key": "transactionId1",
+            "value": "TX12345"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "producto",
+        "id": "0d58915f-c75c-44a7-94ce-a1b9144283dc",
+        "attributes": [
+          {
+            "key": "producto1",
+            "value": "Medicamento"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "cantidad",
+        "id": "6e25d78f-eeba-455e-ab34-65d0463efec4",
+        "attributes": [
+          {
+            "key": "cantidad1",
+            "value": "10"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "precioUnitario",
+        "id": "d3282bfd-ad0d-4faa-8116-91ba1c14cc78",
+        "attributes": [
+          {
+            "key": "precioUnitario1",
+            "value": "100"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "total",
+        "id": "dfbb328c-5c64-4e57-b76a-8fe93fa65e5b",
+        "attributes": [
+          {
+            "key": "total1",
+            "value": "1000"
+          }
+        ]
+      }
+    }
+  ]
+}
